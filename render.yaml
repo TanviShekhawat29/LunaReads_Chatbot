@@ -3,7 +3,7 @@ services:
     name: lunareads-backend
     env: node
     plan: free
-    repo: https://github.com/YOUR_USERNAME/LunaReads_Chatbot
+    repo: https://github.com/TanviShekhawat29/LunaReads_Chatbot
     branch: main
     buildCommand: npm install
     startCommand: node index.js
